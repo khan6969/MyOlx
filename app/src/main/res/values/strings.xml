@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyOlx</string>
+    <string name="pasword">Password</string>
+    <string name="email">Email</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="main">Main</string>
+    <string name="New">New</string>
+    <string name="your_name">Your Name</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="used">Used</string>
+    <string name="click_for_location">Click for location</string>
+    <string name="next">Next</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name</string>
+    <string name="condition">Condition</string>
+    <string name="time">Time</string>
+    <string name="enter_your_number">Enter Your Number</string>
+    <string name="price_of_product">Price of Product</string>
+    <string name="post">Post</string>
+    <string name="phone">Phone</string>
+    <string name="price">Price</string>
+    <string name="username">UserName</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="chat">Chat</string>
+    <string name="search">Search</string>
+
+    <string name="call">Call</string>
+    <string name="calling">Calling..</string>
+    <string name="reinging">Ringing</string>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "466836230098",
+    "firebase_url": "https://myolx-da165.firebaseio.com",
+    "project_id": "myolx-da165",
+    "storage_bucket": "myolx-da165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466836230098:android:e3f9d697c6b75932d5820b",
+        "android_client_info": {
+          "package_name": "com.example.myolx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466836230098-k3hn8f0d6oudd8eqhl347dcm8rd5kse3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5B25UzMuoPIRRMHN83F6tjU1KMx9dlwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466836230098-k3hn8f0d6oudd8eqhl347dcm8rd5kse3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
